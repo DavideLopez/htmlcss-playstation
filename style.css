@@ -28,11 +28,11 @@
 /* INIZIO JUMBO */
 
 .jumbo-bg {
-    min-height: 70vh;
     background-image: url(img/jumbo-bg.png);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
+    min-height: 70vh;
 }
 .content-jumbo{
     padding-top: 15rem;
@@ -42,8 +42,9 @@
     font-size: 2rem;
 }
 
-.returnal-description {
-    max-width: 50%;
+.game-descr{
+    font-weight: bold;
+    max-width: 20%;
 }
 
 #button-buy {
