@@ -34,6 +34,11 @@
     background-repeat: no-repeat;
     min-height: 75vh;
 }
+
+.container-main {
+    padding-left: 50px;
+}
+
 .content-jumbo{
     padding-top: 15rem;
 }
@@ -52,3 +57,11 @@
     background-color: #CD3D0F !important;
     padding: 10px;
 }
+
+.active-game:hover{
+    border: 3px solid rgb(52, 49, 87);
+    padding: 5px;
+    border-radius: 20px;
+}
+
+/* FINE JUMBO */
