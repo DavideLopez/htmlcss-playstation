@@ -146,9 +146,13 @@ footer{
 
 li, ul{
     list-style: none;
+    color: white;
 }
 
 .lang a{
     color: white;
 }
 
+footer a{
+    color: white;
+}
