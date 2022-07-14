@@ -1,5 +1,5 @@
 .bg-black{
-    background-color: green;
+    background-color: black;
 }
 
 .sonylogo{
@@ -23,6 +23,10 @@
   color: black !important; 
 }
 
+a{
+    text-decoration: none;
+}
+
 /* FINE NAVBAR */
 
 /* INIZIO JUMBO */
@@ -40,7 +44,7 @@
 }
 
 .content-jumbo{
-    padding-top: 15rem;
+    padding-top: 20rem;
 }
 
 .title-main{
@@ -49,7 +53,7 @@
 
 .game-descr{
     font-weight: bold;
-    max-width: 20%;
+    /* max-width: 20%; */
 }
 
 #button-buy {
@@ -62,6 +66,33 @@
     border: 3px solid rgb(52, 49, 87);
     padding: 5px;
     border-radius: 20px;
+    opacity: 0.6;
 }
 
 /* FINE JUMBO */
+
+/* PARTE PRESENTAZIONE PS5 */
+
+.accessori img {
+    display: block;
+    width: 50%;
+    margin: auto;
+    opacity: 0.5;
+    transition: opacity 0.5;
+}
+
+.accessori img:hover{
+    opacity: 1;
+}
+
+.accessori a:hover{
+    color: black;
+    font-weight: bold;
+}
+
+.button-blue{
+    background-color: blue;
+    border-radius: 50px;
+    padding: 10px 15px;
+    color: white;
+}
