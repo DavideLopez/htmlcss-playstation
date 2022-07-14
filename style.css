@@ -78,16 +78,10 @@ a{
     width: 50%;
     margin: auto;
     opacity: 0.5;
-    transition: opacity 0.5;
 }
 
 .accessori img:hover{
     opacity: 1;
-}
-
-.accessori a:hover{
-    color: black;
-    font-weight: bold;
 }
 
 .button-blue{
@@ -110,3 +104,8 @@ a{
   .nuove-uscite{
     background-color: #333;
   }
+
+  .nuove-uscite img:hover{
+    opacity: 0.3;
+  }
+  /* FINE SEZIONE NUOVE USCITE */
