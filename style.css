@@ -109,3 +109,19 @@ a{
     opacity: 0.3;
   }
   /* FINE SEZIONE NUOVE USCITE */
+
+  /* SEZIONE PS PLUS */
+
+  .ps-plus{
+    background-color: #BEBCBB;
+  }
+
+  .ps-plus a{
+    background-color: white;
+    border-radius: 20px;
+    padding: 10px 15px;
+  }
+/* FINE SEZIONE PS PLUS */
+
+/* SEZIONE SCONTI */
+
