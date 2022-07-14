@@ -123,6 +123,17 @@ a{
   }
 /* FINE SEZIONE PS PLUS */
 
+/* SEZIONE PSNOW */
 
+.ps-now{
+    background-color: #161C3B;
+}
 
+.ps-now a{
+    background-color: white;
+    border-radius: 20px;
+    padding: 10px 15px;
+    color: black;
+}
+/* FINE SEZIONE PSNOW */
 
