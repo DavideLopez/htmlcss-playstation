@@ -96,3 +96,17 @@ a{
     padding: 10px 15px;
     color: white;
 }
+
+/* SEZIONE IT TAKES TWO */
+
+#it-takes-two {
+    background: url(img/it-takes-two-hero-banner-desktop.jpg) center;
+    background-size: cover;
+    color: white;
+  }
+
+  /* SEZIONE NUOVE USCITE */
+
+  .nuove-uscite{
+    background-color: #333;
+  }
