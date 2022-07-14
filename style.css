@@ -137,5 +137,18 @@ a{
 }
 /* FINE SEZIONE PSNOW */
 
+/* FOOTER */
 
+footer{
+    background-color: #00439C;
+    color: white;
+}
+
+li, ul{
+    list-style: none;
+}
+
+.lang a{
+    color: white;
+}
 
