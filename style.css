@@ -27,9 +27,20 @@ a{
     text-decoration: none;
 }
 
+#nav-container{
+    position:fixed;
+    right: 0;
+    left: 0;
+}
+
+
 /* FINE NAVBAR */
 
 /* INIZIO JUMBO */
+
+.jumbotron{
+    padding-top: 7rem;
+}
 
 .jumbo-bg {
     background-image: url(img/jumbo-bg.png);
@@ -156,3 +167,4 @@ li, ul{
 footer a{
     color: white;
 }
+
